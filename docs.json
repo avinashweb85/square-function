@@ -1,0 +1,15 @@
+{
+    "name": "square",
+    "description": "Calculate the square of a number",
+    "input": {
+      "type": "number",
+      "description": "The number to be squared",
+      "example": 5
+    },
+    "output": {
+      "type": "number",
+      "description": "The square of the input number",
+      "example": 25
+    }
+  }
+  
